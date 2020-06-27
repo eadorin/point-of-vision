@@ -2,6 +2,8 @@
 Point of Vision is designed to let the DM set the point of origin for LOS for tokens.
 
 
+![Points of Vision](https://github.com/eadorin/point-of-vision/blob/master/screenshots/menu.png?raw=true)
+
 ## Installation
 Simply use the install module screen within the FoundryVTT setup
 
@@ -23,7 +25,7 @@ Please report any issues on my GitHub Page
 Requested by [/u/ThePaperclipkiller](https://www.reddit.com/user/ThePaperclipkiller).
 
 ## Sponsorship
-Please consider sponsoring me on [my patreon](https://www.patreon.com/eadorin)
+Please consider sponsoring me on [My Patreon](https://www.patreon.com/eadorin)
 
 ## License
 This Foundry VTT module, writen by Eadorin, is licensed under [GNU GPLv3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), supplemented by [Commons Clause](https://commonsclause.com/).
