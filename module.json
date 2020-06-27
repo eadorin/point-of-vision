@@ -2,7 +2,7 @@
     "name": "point-of-vision",
     "title": "Point of Vision",
     "description": "a few small updates to the combat tracker",
-    "version": "0.1",
+    "version": "0.1.2",
     "author": "Eadorin (eadorin@gmail.com)",
     "esmodules": ["src/point-of-vision.js"],
     "scripts": [],
@@ -12,7 +12,7 @@
     "manifest": "https://raw.githubusercontent.com/eadorin/point-of-vision/master/module.json",
     "download": "https://github.com/eadorin/point-of-vision/archive/master.zip",
     "url": "https://github.com/eadorin/point-of-vision",
-    "changelog": "https:github.com/eadorin/point-of-vision/blob/v0.1/changelog.md",
+    "changelog": "https:github.com/eadorin/point-of-vision/blob/v0.1.2/changelog.md",
     "languages": [
       { "lang": "en", "name": "English", "path": "lang/en.json" }
     ]
